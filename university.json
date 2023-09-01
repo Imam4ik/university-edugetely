@@ -256,7 +256,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [7, 15],
+				"chapter": [7, 14],
 				"faculty": ""
 			},
 			{
@@ -264,7 +264,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -272,7 +272,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -280,7 +280,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [10, 15],
+				"chapter": [10, 14],
 				"faculty": ""
 			},
 			{
@@ -288,7 +288,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -296,7 +296,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -304,7 +304,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -312,7 +312,7 @@
 				"type_education": "бакалавриат",
 				"price": 253700,
 				"rubric": 4,
-				"chapter": [15],
+				"chapter": [14],
 				"faculty": ""
 			}
 		]
@@ -592,7 +592,7 @@
 				"type_education": "Бакалавриат",
 				"price": 290000,
 				"rubric": 4,
-				"chapter": [1, 15],
+				"chapter": [1, 14],
 				"faculty": ""
 			},
 			{
@@ -600,7 +600,7 @@
 				"type_education": "Бакалавриат",
 				"price": 290000,
 				"rubric": 4,
-				"chapter": [15],
+				"chapter": [14],
 				"faculty": ""
 			},
 			{
@@ -608,7 +608,7 @@
 				"type_education": "Бакалавриат",
 				"price": 290000,
 				"rubric": 4,
-				"chapter": [15],
+				"chapter": [14],
 				"faculty": ""
 			},
 			{
